@@ -1,6 +1,6 @@
 ## Project goal
 
-The aim of this project is make dataset analysis, establishing a research hypothesis and develop a regression model showing the trend.
+The aim of this project is make dataset analysis, establishing a research hypothesis and develop a regression model showing the trend. 
 
 ## Dataset
 
